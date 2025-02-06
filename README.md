@@ -18,10 +18,10 @@ samples, guidance on mobile development, and a full API reference.
 ## UI Screenshots
 
 ### Home Screen
-![Home Screen](screenshots/home.png)
+<img src="screenshots/home.png" alt="Home Screen" width="400">
 
 ### Details Screen
-![Details Screen](screenshots/details.png)
+<img src="screenshots/details.png" alt="Details Screen" width="400">
 
 ### Collection Screen
-![Collection Screen](screenshots/collection.png)
+<img src="screenshots/collection.png" alt="Collection Screen" width="400">
