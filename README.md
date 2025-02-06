@@ -21,7 +21,7 @@ samples, guidance on mobile development, and a full API reference.
 ![Home Screen](screenshots/home.png)
 
 ### Details Screen
-![Details Screen](screenshots/details.png.png)
+![Details Screen](screenshots/details.png)
 
 ### Collection Screen
 ![Collection Screen](screenshots/collection.png)
